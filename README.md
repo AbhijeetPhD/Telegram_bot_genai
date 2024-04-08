@@ -19,3 +19,11 @@ conda create -n telebot python=3.8 -y
 conda activate telebot
 ```
 
+
+### STEP 02- install a requirements.txt
+
+```bash
+pip install -r requirements.txt
+```
+
+
