@@ -26,4 +26,11 @@ conda activate telebot
 pip install -r requirements.txt
 ```
 
+### Telegram Setup
+
+1. earch for botfather
+2. /newbot
+   -mybot
+   -mybot_bot
+
 
